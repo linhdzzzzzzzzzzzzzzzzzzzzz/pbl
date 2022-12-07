@@ -1,4 +1,4 @@
-﻿﻿from colorama import Fore, Back, Style
+from colorama import Fore, Back, Style
 import os
 import pyttsx3
 import sys
